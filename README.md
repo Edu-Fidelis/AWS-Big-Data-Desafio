@@ -17,7 +17,7 @@ virtualenv --python=python3.6 venv_diolive_edu
 
 ### Instalando apps e bibliotecas úteis
 
-VSCode: code .
+VSCode: code . \n
 Boto3: pip install boto3
 MrJob: pip install mrjob
 
